@@ -1,7 +1,7 @@
 ATmega328P
 -------------------------------------------------------------------------------
 This is a series of small programs I wrote in order to learn AVR programming,
-with the ultimate goal of building a device that would track my REM eye
+with the ultimate goal of constructing a device that would track my REM eye
 movements through my eyelids (via IR LED/phototransistor pairs) while I was
 dreaming. The device would softly notify me (via earphones) that I was dreaming
 without waking me up, bringing me into a lucid dream. I would then be able to
