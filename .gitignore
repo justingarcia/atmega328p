@@ -1,0 +1,11 @@
+cc3000/
+fatfs/
+**/.dep/
+**/.obj/
+*.hex
+*.elf
+*.log
+*.cap*
+**/makefile
+
+!/makefile
