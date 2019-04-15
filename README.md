@@ -18,5 +18,5 @@ from Texas Instruments, which can be obtained from
 [Adafruit](https://github.com/adafruit/Adafruit_CC3000_Library). Also required
 is the Petit Fat File System, which can be obtained
 [here](http://elm-chan.org/fsw/ff/00index_p.html).
-Finally, included in this repo is [firmware](vs1053) for the VS1053b Audio
-Codec Module, which I wrote from scratch.
+Finally, I had to write the firmware for the VS1053b Audio Codec Module from
+scratch, and it can be found in [`vs1053`](vs1053).
