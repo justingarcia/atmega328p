@@ -7,7 +7,7 @@ dreaming. The device would softly notify me (via earphones) that I was dreaming
 without waking me up, bringing me into a lucid dream. I would then be able to
 communicate with the outside world using eye movements to navigate through an
 audio UI and compose messages, which would be sent to a nearby computer and/or
-the internet through Wi-Fi. The basic tracking setup was taken largely from
+the internet via Wi-Fi. The basic tracking setup was taken largely from
 [this project](http://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2013/msw234_sf323/msw234_sf323/msw234_sf323/Eyetracker.htm).
 
 I made it as far as tracking eye movements with a crude prototype, whose code
